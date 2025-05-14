@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aspen-ai-docs",
+  "private_key_id": "61cf0a138d13b3d9368fc4730a6cbc8669cf8d6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWz7oDaWBDK9dB\nNvjLNreiZ32uRVuKUqLqCVY+zRa8BnwBtdfT7utzGjzLkOl1IVKuStIMNyCsgYeF\ni9zECLiNv6ana750rquNpPrlgDkxQcwze3zjmSGgZSIWxgGaxn4eZaK85FLlv/4d\nQxJRpprc26/okGwZfZPyjjoYXMnryiqxF6mMb4rI8atSdEWYMuhE22wq7SgdQ63N\n6mIpkxvN9puo0vBBJ0TgY4OEduJrxGnDh9D5TAKZH3SDlZReonjj+0H5ufUDPqXH\n7ZFEPoAxY/jIZTtpNV/wUHAoyivm0EScWPLzzXlLuSkInpxIcXYLSgfR3VHYfjYG\nxtjagayHAgMBAAECggEAXlttvnzlq2vRCFTw0TbOUBi8lLXjoW1uIXaLe1eUInCI\nvSmWzgHXS76dMOANJIXIL0YvYO1APXZCRM+sYDHie2VRe54w0Uk+kyACk5gQx0m7\nPGwEbmc/5Zg28qD0aHvDP2/unaF/pmsA4PKq09HmmZgoe3Qg/8txFu0RqMztZ1Qe\no+yLgbOwh2sLy3UwXwgMX9FTnXaY9BSlL+fMutuB4VCUOtsvgrrjrxSG1eSq2frE\nnsJIF65ddaCTCevN5cyOcOhTbJDJiy+i9lTCNdv8tA5OEtG5KUMX5cvstQZK1Wcq\no41+3E53oT5dKvmJWmY0BnTugd6nQdo0hEO4q0j19QKBgQD5p0lCZ8QNlXY+JlCz\nJZfrw7Kx0szB+NB08NCJeh31SKvAHeqokHE7lzNjeEaxpMPVQsqIPQNs70MRB+Zd\n9ovYX2Ae1jE0y0Q0C9ysDGk3nwYpj/AuFdhwD6FiEJdoBoTxUurDORqZ729X/Q5m\ncYMryh2qzV+ACBevr3HFc9EGbQKBgQDcRbFdP3P956crAYHb5BPdxt4YmtRE14bl\nG1v1V0L9IqnOGOu8bjrS1NegE8Tv9ze6QuHexjZxMcXdwit0aQ28kOggst69AjTp\nq+I4rzQEcs5WTyYdoXBpJQWPKhF7GJ3QaQna0rXuoukAhB7Y2mYDiJiFj7S+mMbU\nd/m5wfo2QwKBgGPDWr4jky/Oc0Lgssz0D+KSAH2Y/GPjFwI0HVFisEgNczzBd71G\ng0lJ4ao1LSLd8bfuCdspbo4Aiq9qlb8kv7uGWXXZKC6tr6KQvu0txHoKnT7MmzD/\nX89gH6B9etOCD2wUM2YyEpRDHx5tLGz5nW5JRVO04B3cngKBvJgn8PZ9AoGBAL0E\nmRS5lKF3Hf5LhtHYwCt5sbBPfIOupzUG6zx3KybpjekrfW7u8E9nEblt/XsmG44c\nQpLWaHVuDqsjKgL0+zKq7mbQ104+DIXQV4no3qxKkEGEHeMjW8D+YezeXq3RC+uB\nl1FNq40iAuvMdGQF1bCGkMtb6+/6TfSZF5SNnlbdAoGBAOdFyP8vDT0/JI4wbcOy\nCP3LiPrhqyQz45YvT5bqICYZ6Zqy4+lvwBTiFwDlLHM3fgDEBZS84dR2qUjUewCr\nLPOycc+qm5zzezkh5GhuQC7m8GvEuJPmV/OpuDlUjWKNoXlNizuC8gvVvutI/U78\nXErOQ1IPOfzGIL0QAdjDoT35\n-----END PRIVATE KEY-----\n",
+  "client_email": "aspen-fastapi-access@aspen-ai-docs.iam.gserviceaccount.com",
+  "client_id": "112119470700686280774",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aspen-fastapi-access%40aspen-ai-docs.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
